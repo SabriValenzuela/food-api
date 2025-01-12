@@ -9,11 +9,12 @@ class Categorias extends Model
 {
     use HasFactory;
 
+    protected $table = 'categorias';
 
+    protected $fillable = ['Nombre', 'Calorias', 'Carbohidratos', 'Proteinas', 'Lipidos'];
 
- 
     public function alimentos()
     {
-        return $this->hasMany(Alimento::class);
-}
+        return $this->hasMany(Alimentos::class, 'categoria_id');
+    }
 }

@@ -8,11 +8,12 @@ use Illuminate\Database\Eloquent\Factories\HasFactory;
 class Alimentos extends Model
 {
      use HasFactory; 
+     protected $table = 'alimentos';
 
-
-    
-    public function categoria()
-    {
-        return $this->belongsTo(Categoria::class);
-    }
+     protected $fillable = ['categoria_id', 'Nombre', 'Gramos', 'Medida_casera'];
+ 
+     public function categoria()
+     {
+         return $this->belongsTo(Categorias::class, 'categoria_id');
+     }
 }

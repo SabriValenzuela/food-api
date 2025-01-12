@@ -18,6 +18,7 @@ class CategoriasController extends Controller
         return response()->json($categorias);
     }
 
+  
     /**
      * Show the form for creating a new resource.
      */

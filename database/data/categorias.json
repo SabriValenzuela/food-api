@@ -1,0 +1,106 @@
+[
+    {
+        "id": 11,
+        "Nombre": "Aceites y grasas",
+        "Calorias": 80,
+        "Carbohidratos": 0,
+        "Proteinas": 20,
+        "Lipidos": 0
+    },
+    {
+        "id": 12,
+        "Nombre": "Alimentos ricos en lipidos",
+        "Calorias": 175,
+        "Carbohidratos": 5,
+        "Proteinas": 15,
+        "Lipidos": 5
+    },
+    {
+        "id": 13,
+        "Nombre": "Azúcares",
+        "Calorias": 20,
+        "Carbohidratos": 5,
+        "Proteinas": 0,
+        "Lipidos": 0
+    },
+    {
+        "id": 9,
+        "Nombre": "Carnes altas en grasas",
+        "Calorias": 65,
+        "Carbohidratos": 1,
+        "Proteinas": 11,
+        "Lipidos": 2
+    },
+    {
+        "id": 8,
+        "Nombre": "Carnes bajas en grasas",
+        "Calorias": 120,
+        "Carbohidratos": 1,
+        "Proteinas": 11,
+        "Lipidos": 8
+    },
+    {
+        "id": 1,
+        "Nombre": "Cereales, tubérculos y leguminosas frescas",
+        "Calorias": 140,
+        "Carbohidratos": 30,
+        "Proteinas": 3,
+        "Lipidos": 1
+    },
+    {
+        "id": 4,
+        "Nombre": "Frutas",
+        "Calorias": 65,
+        "Carbohidratos": 15,
+        "Proteinas": 1,
+        "Lipidos": 0
+    },
+    {
+        "id": 5,
+        "Nombre": "Lácteos altos en grasas",
+        "Calorias": 110,
+        "Carbohidratos": 9,
+        "Proteinas": 5,
+        "Lipidos": 6
+    },
+    {
+        "id": 7,
+        "Nombre": "Lácteos bajos en grasas",
+        "Calorias": 70,
+        "Carbohidratos": 10,
+        "Proteinas": 7,
+        "Lipidos": 0
+    },
+    {
+        "id": 6,
+        "Nombre": "Lácteos medios en grasas",
+        "Calorias": 85,
+        "Carbohidratos": 9,
+        "Proteinas": 5,
+        "Lipidos": 3
+    },
+    {
+        "id": 10,
+        "Nombre": "Legumbres secas",
+        "Calorias": 170,
+        "Carbohidratos": 30,
+        "Proteinas": 11,
+        "Lipidos": 1
+    },
+    {
+        "id": 3,
+        "Nombre": "Verduras de libre consumo",
+        "Calorias": 10,
+        "Carbohidratos": 2,
+        "Proteinas": 0,
+        "Lipidos": 0
+    },
+    {
+        "id": 2,
+        "Nombre": "Verduras generales",
+        "Calorias": 30,
+        "Carbohidratos": 5,
+        "Proteinas": 2,
+        "Lipidos": 0
+    }
+]

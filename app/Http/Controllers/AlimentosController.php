@@ -17,6 +17,14 @@ class AlimentosController extends Controller
         return response()->json($alimentos);
     }
 
+    public function indexFull()
+    {
+        $alimentos = Alimentos::with('categoria')->orderBy('id')->get();
+
+        return response()->json($alimentos);
+
+    }
+
     /**
      * Show the form for creating a new resource.
      */
@@ -43,6 +51,13 @@ class AlimentosController extends Controller
         return response()->json($alimentos);
     }
 
+    public function showFull($id)
+    {
+        $alimento = Alimentos::with('categoria')->findOrFail($id);
+
+        return response()->json($alimento);
+
+    }
     /**
      * Show the form for editing the specified resource.
      */

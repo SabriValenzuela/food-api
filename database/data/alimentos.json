@@ -1,0 +1,2095 @@
+[
+    {
+        "id": 1,
+        "categoria_id": 1,
+        "Nombre": "Arroz",
+        "Gramos": 100,
+        "Medida casera": "3/4 taza"
+    },
+    {
+        "id": 2,
+        "categoria_id": 1,
+        "Nombre": "Arroz integral",
+        "Gramos": 120,
+        "Medida casera": "3/4 taza"
+    },
+    {
+        "id": 3,
+        "categoria_id": 1,
+        "Nombre": "Fideos",
+        "Gramos": 110,
+        "Medida casera": "3/4 taza"
+    },
+    {
+        "id": 4,
+        "categoria_id": 1,
+        "Nombre": "Fideos de arroz",
+        "Gramos": 40,
+        "Medida casera": "3/4 taza"
+    },
+    {
+        "id": 5,
+        "categoria_id": 1,
+        "Nombre": "Espaguetti",
+        "Gramos": 90,
+        "Medida casera": "1 taza"
+    },
+    {
+        "id": 6,
+        "categoria_id": 1,
+        "Nombre": "Maíz inflado (cabritas)",
+        "Gramos": 35,
+        "Medida casera": "1 1/2 taza"
+    },
+    {
+        "id": 7,
+        "categoria_id": 1,
+        "Nombre": "Mote, maíz",
+        "Gramos": 120,
+        "Medida casera": "3/4 taza"
+    },
+    {
+        "id": 8,
+        "categoria_id": 1,
+        "Nombre": "Mote, trigo",
+        "Gramos": 100,
+        "Medida casera": "1 taza"
+    },
+    {
+        "id": 9,
+        "categoria_id": 1,
+        "Nombre": "Marraqueta",
+        "Gramos": 50,
+        "Medida casera": "1/2 un"
+    },
+    {
+        "id": 10,
+        "categoria_id": 1,
+        "Nombre": "Hallulla",
+        "Gramos": 40,
+        "Medida casera": "1/2 un"
+    },
+    {
+        "id": 11,
+        "categoria_id": 1,
+        "Nombre": "Molde ideal",
+        "Gramos": 60,
+        "Medida casera": "1.5 reb"
+    },
+    {
+        "id": 12,
+        "categoria_id": 1,
+        "Nombre": "Integral molde",
+        "Gramos": 50,
+        "Medida casera": "1 1/4  rebanada"
+    },
+    {
+        "id": 13,
+        "categoria_id": 1,
+        "Nombre": "Integral hallulla",
+        "Gramos": 40,
+        "Medida casera": "1 un chica"
+    },
+    {
+        "id": 14,
+        "categoria_id": 1,
+        "Nombre": "Centeno molde",
+        "Gramos": 50,
+        "Medida casera": "1 1/4  rebanada"
+    },
+    {
+        "id": 15,
+        "categoria_id": 1,
+        "Nombre": "Centeno hallulla",
+        "Gramos": 50,
+        "Medida casera": "1 un chica"
+    },
+    {
+        "id": 16,
+        "categoria_id": 1,
+        "Nombre": "Germen trigo",
+        "Gramos": 50,
+        "Medida casera": "1 1/4  rebanada"
+    },
+    {
+        "id": 17,
+        "categoria_id": 1,
+        "Nombre": "Dulce (huevo)",
+        "Gramos": 50,
+        "Medida casera": "1/4 un"
+    },
+    {
+        "id": 18,
+        "categoria_id": 1,
+        "Nombre": "Amasado",
+        "Gramos": 50,
+        "Medida casera": "1/4 un"
+    },
+    {
+        "id": 19,
+        "categoria_id": 1,
+        "Nombre": "Grisines",
+        "Gramos": 45,
+        "Medida casera": "5 un"
+    },
+    {
+        "id": 20,
+        "categoria_id": 1,
+        "Nombre": "Pita",
+        "Gramos": 40,
+        "Medida casera": "1 un"
+    },
+    {
+        "id": 21,
+        "categoria_id": 1,
+        "Nombre": "Dobladita",
+        "Gramos": 60,
+        "Medida casera": "1/2 un"
+    },
+    {
+        "id": 22,
+        "categoria_id": 1,
+        "Nombre": "Frica",
+        "Gramos": 60,
+        "Medida casera": "1 un"
+    },
+    {
+        "id": 23,
+        "categoria_id": 1,
+        "Nombre": "Arveja cruda o cocida",
+        "Gramos": 190,
+        "Medida casera": "1 1/2 taza"
+    },
+    {
+        "id": 24,
+        "categoria_id": 1,
+        "Nombre": "Arvejas enlatadas",
+        "Gramos": 190,
+        "Medida casera": "1 1/2 taza"
+    },
+    {
+        "id": 25,
+        "categoria_id": 1,
+        "Nombre": "Camote",
+        "Gramos": 120,
+        "Medida casera": "1/2 taza"
+    },
+    {
+        "id": 26,
+        "categoria_id": 1,
+        "Nombre": "Castaña",
+        "Gramos": 35,
+        "Medida casera": "4 un"
+    },
+    {
+        "id": 27,
+        "categoria_id": 1,
+        "Nombre": "Choclo cocido",
+        "Gramos": 160,
+        "Medida casera": "1 taza"
+    },
+    {
+        "id": 28,
+        "categoria_id": 1,
+        "Nombre": "Haba cocida",
+        "Gramos": 150,
+        "Medida casera": "1 taza"
+    },
+    {
+        "id": 29,
+        "categoria_id": 1,
+        "Nombre": "Papa cocida",
+        "Gramos": 150,
+        "Medida casera": "1 un"
+    },
+    {
+        "id": 30,
+        "categoria_id": 1,
+        "Nombre": "Piñón",
+        "Gramos": 80,
+        "Medida casera": "3/4 taza"
+    },
+    {
+        "id": 31,
+        "categoria_id": 1,
+        "Nombre": "Poroto granado cocido",
+        "Gramos": 120,
+        "Medida casera": "3/4 taza"
+    },
+    {
+        "id": 32,
+        "categoria_id": 1,
+        "Nombre": "Bebida arroz",
+        "Gramos": 400,
+        "Medida casera": "2 tazas"
+    },
+    {
+        "id": 33,
+        "categoria_id": 1,
+        "Nombre": "Bebida avena",
+        "Gramos": 400,
+        "Medida casera": "2 tazas"
+    },
+    {
+        "id": 34,
+        "categoria_id": 2,
+        "Nombre": "Acelga",
+        "Gramos": 110,
+        "Medida casera": "1/2 taza"
+    },
+    {
+        "id": 35,
+        "categoria_id": 2,
+        "Nombre": "Alcachofa (fondo u hoja)",
+        "Gramos": 50,
+        "Medida casera": "1 un chica"
+    },
+    {
+        "id": 36,
+        "categoria_id": 2,
+        "Nombre": "Betarraga",
+        "Gramos": 90,
+        "Medida casera": "1/2 taza"
+    },
+    {
+        "id": 37,
+        "categoria_id": 2,
+        "Nombre": "Berenjena",
+        "Gramos": 100,
+        "Medida casera": "1/2 taza"
+    },
+    {
+        "id": 38,
+        "categoria_id": 2,
+        "Nombre": "Brocoli",
+        "Gramos": 100,
+        "Medida casera": "1 taza"
+    },
+    {
+        "id": 39,
+        "categoria_id": 2,
+        "Nombre": "Champiñon",
+        "Gramos": 100,
+        "Medida casera": "3/4 taza"
+    },
+    {
+        "id": 40,
+        "categoria_id": 2,
+        "Nombre": "Champiñon enlatado",
+        "Gramos": 100,
+        "Medida casera": "3/4 taza"
+    },
+    {
+        "id": 41,
+        "categoria_id": 2,
+        "Nombre": "Ostra",
+        "Gramos": 100,
+        "Medida casera": "16 un"
+    },
+    {
+        "id": 42,
+        "categoria_id": 2,
+        "Nombre": "Paris",
+        "Gramos": 100,
+        "Medida casera": "20 un"
+    },
+    {
+        "id": 43,
+        "categoria_id": 2,
+        "Nombre": "Portobello",
+        "Gramos": 100,
+        "Medida casera": "4 un"
+    },
+    {
+        "id": 44,
+        "categoria_id": 2,
+        "Nombre": "Shitake",
+        "Gramos": 100,
+        "Medida casera": "12 un"
+    },
+    {
+        "id": 45,
+        "categoria_id": 2,
+        "Nombre": "Coliflor",
+        "Gramos": 110,
+        "Medida casera": "1 taza"
+    },
+    {
+        "id": 46,
+        "categoria_id": 2,
+        "Nombre": "Esparrago",
+        "Gramos": 100,
+        "Medida casera": "5 un regulares"
+    },
+    {
+        "id": 47,
+        "categoria_id": 2,
+        "Nombre": "Espinaca",
+        "Gramos": 130,
+        "Medida casera": "1/2 taza"
+    },
+    {
+        "id": 48,
+        "categoria_id": 2,
+        "Nombre": "Pickle",
+        "Gramos": 120,
+        "Medida casera": "3 un regulares"
+    },
+    {
+        "id": 49,
+        "categoria_id": 2,
+        "Nombre": "Poroto verde enlatado",
+        "Gramos": 110,
+        "Medida casera": "1/2 taza"
+    },
+    {
+        "id": 50,
+        "categoria_id": 2,
+        "Nombre": "Poroto verde",
+        "Gramos": 70,
+        "Medida casera": "3/4 taza"
+    },
+    {
+        "id": 51,
+        "categoria_id": 2,
+        "Nombre": "Repollitos de bruselas",
+        "Gramos": 100,
+        "Medida casera": "1/2 taza"
+    },
+    {
+        "id": 52,
+        "categoria_id": 2,
+        "Nombre": "Salsa de tomate o ketchup",
+        "Gramos": 30,
+        "Medida casera": "2 cdas"
+    },
+    {
+        "id": 53,
+        "categoria_id": 2,
+        "Nombre": "Zanahoria",
+        "Gramos": 50,
+        "Medida casera": "1 taza"
+    },
+    {
+        "id": 54,
+        "categoria_id": 2,
+        "Nombre": "Zapallo italiano",
+        "Gramos": 150,
+        "Medida casera": "1 taza"
+    },
+    {
+        "id": 55,
+        "categoria_id": 2,
+        "Nombre": "Zapallo",
+        "Gramos": 70,
+        "Medida casera": "1/2 tazas"
+    },
+    {
+        "id": 56,
+        "categoria_id": 2,
+        "Nombre": "Puerro",
+        "Gramos": 35,
+        "Medida casera": "1/4 taza"
+    },
+    {
+        "id": 57,
+        "categoria_id": 3,
+        "Nombre": "Acelga cruda",
+        "Gramos": 50,
+        "Medida casera": "1 taza"
+    },
+    {
+        "id": 58,
+        "categoria_id": 3,
+        "Nombre": "Achicoria",
+        "Gramos": 50,
+        "Medida casera": "1 1/2 tazas"
+    },
+    {
+        "id": 59,
+        "categoria_id": 3,
+        "Nombre": "Ajo",
+        "Gramos": 8,
+        "Medida casera": "4 dientes"
+    },
+    {
+        "id": 60,
+        "categoria_id": 3,
+        "Nombre": "Apio",
+        "Gramos": 70,
+        "Medida casera": "1 taza"
+    },
+    {
+        "id": 61,
+        "categoria_id": 3,
+        "Nombre": "Cochayuyo",
+        "Gramos": 25,
+        "Medida casera": "1 taza"
+    },
+    {
+        "id": 62,
+        "categoria_id": 3,
+        "Nombre": "Endivia",
+        "Gramos": 50,
+        "Medida casera": "1 taza"
+    },
+    {
+        "id": 63,
+        "categoria_id": 3,
+        "Nombre": "Espinaca cruda",
+        "Gramos": 50,
+        "Medida casera": "1 taza"
+    },
+    {
+        "id": 64,
+        "categoria_id": 3,
+        "Nombre": "Lechuga escarola",
+        "Gramos": 50,
+        "Medida casera": "1 taza juliana"
+    },
+    {
+        "id": 65,
+        "categoria_id": 3,
+        "Nombre": "Lechuga costina",
+        "Gramos": 50,
+        "Medida casera": "1 1/4 taza juliana"
+    },
+    {
+        "id": 66,
+        "categoria_id": 3,
+        "Nombre": "Penca",
+        "Gramos": 50,
+        "Medida casera": "1/2 taza"
+    },
+    {
+        "id": 67,
+        "categoria_id": 3,
+        "Nombre": "Pepino ensalada",
+        "Gramos": 100,
+        "Medida casera": "1 taza"
+    },
+    {
+        "id": 68,
+        "categoria_id": 3,
+        "Nombre": "Pimenton rojo",
+        "Gramos": 60,
+        "Medida casera": "1/2 taza"
+    },
+    {
+        "id": 69,
+        "categoria_id": 3,
+        "Nombre": "Pimenton verde",
+        "Gramos": 60,
+        "Medida casera": "1/2 taza"
+    },
+    {
+        "id": 70,
+        "categoria_id": 3,
+        "Nombre": "Rabanito",
+        "Gramos": 50,
+        "Medida casera": "5 un"
+    },
+    {
+        "id": 71,
+        "categoria_id": 3,
+        "Nombre": "Repollo",
+        "Gramos": 50,
+        "Medida casera": "1 taza"
+    },
+    {
+        "id": 72,
+        "categoria_id": 3,
+        "Nombre": "Repollo morado",
+        "Gramos": 50,
+        "Medida casera": "1 taza"
+    },
+    {
+        "id": 73,
+        "categoria_id": 3,
+        "Nombre": "Ulte",
+        "Gramos": 25,
+        "Medida casera": "1 taza"
+    },
+    {
+        "id": 74,
+        "categoria_id": 3,
+        "Nombre": "Zapallo italiano crudo",
+        "Gramos": 100,
+        "Medida casera": "1 taza"
+    },
+    {
+        "id": 75,
+        "categoria_id": 3,
+        "Nombre": "Cebollín",
+        "Gramos": 35,
+        "Medida casera": "1 taza"
+    },
+    {
+        "id": 76,
+        "categoria_id": 3,
+        "Nombre": "Kale",
+        "Gramos": 40,
+        "Medida casera": "3 hojas"
+    },
+    {
+        "id": 77,
+        "categoria_id": 3,
+        "Nombre": "Luche",
+        "Gramos": 30,
+        "Medida casera": "1 taza"
+    },
+    {
+        "id": 78,
+        "categoria_id": 3,
+        "Nombre": "Berro",
+        "Gramos": 75,
+        "Medida casera": "2 1/2 platos"
+    },
+    {
+        "id": 79,
+        "categoria_id": 4,
+        "Nombre": "Aceitunas",
+        "Gramos": 55,
+        "Medida casera": "11 un"
+    },
+    {
+        "id": 80,
+        "categoria_id": 4,
+        "Nombre": "Caqui",
+        "Gramos": 90,
+        "Medida casera": "1 un chica"
+    },
+    {
+        "id": 81,
+        "categoria_id": 4,
+        "Nombre": "Cereza",
+        "Gramos": 90,
+        "Medida casera": "15 un"
+    },
+    {
+        "id": 82,
+        "categoria_id": 4,
+        "Nombre": "Chirimoya",
+        "Gramos": 90,
+        "Medida casera": "1/4 un"
+    },
+    {
+        "id": 83,
+        "categoria_id": 4,
+        "Nombre": "Ciruela",
+        "Gramos": 110,
+        "Medida casera": "3 un"
+    },
+    {
+        "id": 84,
+        "categoria_id": 4,
+        "Nombre": "Damasco",
+        "Gramos": 120,
+        "Medida casera": "3 un"
+    },
+    {
+        "id": 85,
+        "categoria_id": 4,
+        "Nombre": "Durazno",
+        "Gramos": 130,
+        "Medida casera": "1 un regular"
+    },
+    {
+        "id": 86,
+        "categoria_id": 4,
+        "Nombre": "Durazno en conserva",
+        "Gramos": 80,
+        "Medida casera": "1 un"
+    },
+    {
+        "id": 87,
+        "categoria_id": 4,
+        "Nombre": "Frambuesas",
+        "Gramos": 130,
+        "Medida casera": "1 taza"
+    },
+    {
+        "id": 88,
+        "categoria_id": 4,
+        "Nombre": "Frutillas",
+        "Gramos": 200,
+        "Medida casera": "1 taza"
+    },
+    {
+        "id": 89,
+        "categoria_id": 4,
+        "Nombre": "Grosella",
+        "Gramos": 120,
+        "Medida casera": "1/2 taza"
+    },
+    {
+        "id": 90,
+        "categoria_id": 4,
+        "Nombre": "Higo",
+        "Gramos": 80,
+        "Medida casera": "2 un"
+    },
+    {
+        "id": 91,
+        "categoria_id": 4,
+        "Nombre": "Kiwi",
+        "Gramos": 100,
+        "Medida casera": "1 un"
+    },
+    {
+        "id": 92,
+        "categoria_id": 4,
+        "Nombre": "Limon fruto",
+        "Gramos": 160,
+        "Medida casera": "3 un"
+    },
+    {
+        "id": 93,
+        "categoria_id": 4,
+        "Nombre": "Lucuma pasta",
+        "Gramos": 50,
+        "Medida casera": "2 cdas"
+    },
+    {
+        "id": 94,
+        "categoria_id": 4,
+        "Nombre": "Manzana",
+        "Gramos": 100,
+        "Medida casera": "1/2 un"
+    },
+    {
+        "id": 95,
+        "categoria_id": 4,
+        "Nombre": "Melon",
+        "Gramos": 180,
+        "Medida casera": "1 taza"
+    },
+    {
+        "id": 96,
+        "categoria_id": 4,
+        "Nombre": "Membrillo",
+        "Gramos": 100,
+        "Medida casera": "1 un chica"
+    },
+    {
+        "id": 97,
+        "categoria_id": 4,
+        "Nombre": "Mora",
+        "Gramos": 120,
+        "Medida casera": "1/2 taza"
+    },
+    {
+        "id": 98,
+        "categoria_id": 4,
+        "Nombre": "Naranja",
+        "Gramos": 120,
+        "Medida casera": "1 un regular"
+    },
+    {
+        "id": 99,
+        "categoria_id": 4,
+        "Nombre": "Nispero",
+        "Gramos": 120,
+        "Medida casera": "7 un"
+    },
+    {
+        "id": 100,
+        "categoria_id": 4,
+        "Nombre": "Palta",
+        "Gramos": 40,
+        "Medida casera": "1 1/2 cda"
+    },
+    {
+        "id": 101,
+        "categoria_id": 4,
+        "Nombre": "Papaya",
+        "Gramos": 400,
+        "Medida casera": "3 un"
+    },
+    {
+        "id": 102,
+        "categoria_id": 4,
+        "Nombre": "Pepino dulce",
+        "Gramos": 240,
+        "Medida casera": "1 un grande"
+    },
+    {
+        "id": 103,
+        "categoria_id": 4,
+        "Nombre": "Pera",
+        "Gramos": 100,
+        "Medida casera": "1/2 un"
+    },
+    {
+        "id": 104,
+        "categoria_id": 4,
+        "Nombre": "Piña",
+        "Gramos": 120,
+        "Medida casera": "3/4 taza"
+    },
+    {
+        "id": 105,
+        "categoria_id": 4,
+        "Nombre": "Piña enlatada",
+        "Gramos": 80,
+        "Medida casera": "1 todela 20*2 cm"
+    },
+    {
+        "id": 106,
+        "categoria_id": 4,
+        "Nombre": "Platano",
+        "Gramos": 60,
+        "Medida casera": "1/2 un"
+    },
+    {
+        "id": 107,
+        "categoria_id": 4,
+        "Nombre": "Sandia",
+        "Gramos": 200,
+        "Medida casera": "1 taza"
+    },
+    {
+        "id": 108,
+        "categoria_id": 4,
+        "Nombre": "Tuna",
+        "Gramos": 150,
+        "Medida casera": "2 un regulares"
+    },
+    {
+        "id": 109,
+        "categoria_id": 4,
+        "Nombre": "Uvas",
+        "Gramos": 90,
+        "Medida casera": "10 un"
+    },
+    {
+        "id": 110,
+        "categoria_id": 4,
+        "Nombre": "Mandarina",
+        "Gramos": 120,
+        "Medida casera": "1.5 un"
+    },
+    {
+        "id": 111,
+        "categoria_id": 4,
+        "Nombre": "Mango",
+        "Gramos": 100,
+        "Medida casera": "1/2 un"
+    },
+    {
+        "id": 112,
+        "categoria_id": 4,
+        "Nombre": "Manzana Fuji",
+        "Gramos": 100,
+        "Medida casera": "1/2 un"
+    },
+    {
+        "id": 113,
+        "categoria_id": 4,
+        "Nombre": "Manzana Golden",
+        "Gramos": 100,
+        "Medida casera": "1/2 un"
+    },
+    {
+        "id": 114,
+        "categoria_id": 4,
+        "Nombre": "Manzana Roja",
+        "Gramos": 100,
+        "Medida casera": "1/2 un"
+    },
+    {
+        "id": 115,
+        "categoria_id": 4,
+        "Nombre": "Manzana Verde",
+        "Gramos": 100,
+        "Medida casera": "1/2 un"
+    },
+    {
+        "id": 116,
+        "categoria_id": 4,
+        "Nombre": "Higos secos",
+        "Gramos": 25,
+        "Medida casera": "2 un"
+    },
+    {
+        "id": 117,
+        "categoria_id": 4,
+        "Nombre": "Pasas",
+        "Gramos": 20,
+        "Medida casera": "20 un"
+    },
+    {
+        "id": 118,
+        "categoria_id": 4,
+        "Nombre": "Pera desecada",
+        "Gramos": 25,
+        "Medida casera": "7 rodelas"
+    },
+    {
+        "id": 119,
+        "categoria_id": 4,
+        "Nombre": "Manzana desecada",
+        "Gramos": 25,
+        "Medida casera": "7 rodelas"
+    },
+    {
+        "id": 120,
+        "categoria_id": 4,
+        "Nombre": "Huesillos",
+        "Gramos": 25,
+        "Medida casera": "2 un"
+    },
+    {
+        "id": 121,
+        "categoria_id": 4,
+        "Nombre": "Ciruelas",
+        "Gramos": 25,
+        "Medida casera": "2 1/2 un"
+    },
+    {
+        "id": 122,
+        "categoria_id": 4,
+        "Nombre": "Ciruela cruda deshidratada",
+        "Gramos": 25,
+        "Medida casera": "4 un"
+    },
+    {
+        "id": 123,
+        "categoria_id": 4,
+        "Nombre": "Cranberry deshidratado",
+        "Gramos": 18,
+        "Medida casera": ""
+    },
+    {
+        "id": 124,
+        "categoria_id": 4,
+        "Nombre": "Datiles ",
+        "Gramos": 25,
+        "Medida casera": "2 un"
+    },
+    {
+        "id": 125,
+        "categoria_id": 4,
+        "Nombre": "Damasco deshidratado (orejon)",
+        "Gramos": 25,
+        "Medida casera": "4 un"
+    },
+    {
+        "id": 126,
+        "categoria_id": 9,
+        "Nombre": "Cazuela",
+        "Gramos": 50,
+        "Medida casera": "Trozo de 6*6*1"
+    },
+    {
+        "id": 127,
+        "categoria_id": 9,
+        "Nombre": "Lomo Vetado",
+        "Gramos": 50,
+        "Medida casera": "Trozo de 6*6*1"
+    },
+    {
+        "id": 128,
+        "categoria_id": 9,
+        "Nombre": "Huachalomo",
+        "Gramos": 50,
+        "Medida casera": "Trozo de 6*6*1"
+    },
+    {
+        "id": 129,
+        "categoria_id": 9,
+        "Nombre": "Plateada",
+        "Gramos": 50,
+        "Medida casera": "Trozo de 6*6*1"
+    },
+    {
+        "id": 130,
+        "categoria_id": 9,
+        "Nombre": "Asado de Tira/Osobuco",
+        "Gramos": 50,
+        "Medida casera": "Trozo de 6*6*1"
+    },
+    {
+        "id": 131,
+        "categoria_id": 9,
+        "Nombre": "Sobrecostilla",
+        "Gramos": 50,
+        "Medida casera": "Trozo de 6*6*1"
+    },
+    {
+        "id": 132,
+        "categoria_id": 9,
+        "Nombre": "Carne molida corriente",
+        "Gramos": 50,
+        "Medida casera": "Trozo de 6*6*1"
+    },
+    {
+        "id": 133,
+        "categoria_id": 9,
+        "Nombre": "Chuleta de cordero y cerdo",
+        "Gramos": 50,
+        "Medida casera": "Trozo de 6*6*1"
+    },
+    {
+        "id": 134,
+        "categoria_id": 9,
+        "Nombre": "Cazuela de cordero y cerdo",
+        "Gramos": 50,
+        "Medida casera": "Trozo de 6*6*1"
+    },
+    {
+        "id": 135,
+        "categoria_id": 9,
+        "Nombre": "Pernil pierna",
+        "Gramos": 30,
+        "Medida casera": "Trozo de 6*6*1"
+    },
+    {
+        "id": 136,
+        "categoria_id": 9,
+        "Nombre": "Chuleta de cerdo parrillera cocida",
+        "Gramos": 35,
+        "Medida casera": "1 un deshuesada"
+    },
+    {
+        "id": 137,
+        "categoria_id": 9,
+        "Nombre": "Huachalomo cocido",
+        "Gramos": 30,
+        "Medida casera": ""
+    },
+    {
+        "id": 138,
+        "categoria_id": 9,
+        "Nombre": "Tocino asado sin materia grasa",
+        "Gramos": 14,
+        "Medida casera": "1,5 tajadas"
+    },
+    {
+        "id": 139,
+        "categoria_id": 9,
+        "Nombre": "Tocino crudo",
+        "Gramos": 30,
+        "Medida casera": "2 tajadas"
+    },
+    {
+        "id": 140,
+        "categoria_id": 9,
+        "Nombre": "Lengua cocida",
+        "Gramos": 60,
+        "Medida casera": "Trozo de 6*6*1"
+    },
+    {
+        "id": 141,
+        "categoria_id": 9,
+        "Nombre": "Ubre",
+        "Gramos": 60,
+        "Medida casera": "Trozo de 6*6*1"
+    },
+    {
+        "id": 142,
+        "categoria_id": 9,
+        "Nombre": "Seso cocido",
+        "Gramos": 80,
+        "Medida casera": "1/2 taza"
+    },
+    {
+        "id": 143,
+        "categoria_id": 9,
+        "Nombre": "Pana de pollo cruda",
+        "Gramos": 50,
+        "Medida casera": "1 1/2 un"
+    },
+    {
+        "id": 144,
+        "categoria_id": 9,
+        "Nombre": "Pana vacuno cocida",
+        "Gramos": 45,
+        "Medida casera": ""
+    },
+    {
+        "id": 145,
+        "categoria_id": 9,
+        "Nombre": "Jamón",
+        "Gramos": 40,
+        "Medida casera": "1 tajada"
+    },
+    {
+        "id": 146,
+        "categoria_id": 9,
+        "Nombre": "Jamón crudo",
+        "Gramos": 30,
+        "Medida casera": "1 tajada"
+    },
+    {
+        "id": 147,
+        "categoria_id": 9,
+        "Nombre": "Longaniza",
+        "Gramos": 45,
+        "Medida casera": "1 rodela de 4 cm"
+    },
+    {
+        "id": 148,
+        "categoria_id": 9,
+        "Nombre": "Mortadela",
+        "Gramos": 60,
+        "Medida casera": "3 tajadas"
+    },
+    {
+        "id": 149,
+        "categoria_id": 9,
+        "Nombre": "Turín",
+        "Gramos": 30,
+        "Medida casera": "1 1/2 tajadas"
+    },
+    {
+        "id": 150,
+        "categoria_id": 9,
+        "Nombre": "Salame",
+        "Gramos": 20,
+        "Medida casera": "1 tajada"
+    },
+    {
+        "id": 151,
+        "categoria_id": 9,
+        "Nombre": "Prieta cruda",
+        "Gramos": 45,
+        "Medida casera": "1 un"
+    },
+    {
+        "id": 152,
+        "categoria_id": 9,
+        "Nombre": "Vienesa",
+        "Gramos": 40,
+        "Medida casera": "1 un"
+    },
+    {
+        "id": 153,
+        "categoria_id": 9,
+        "Nombre": "Vienesa de pavo",
+        "Gramos": 40,
+        "Medida casera": "1 un"
+    },
+    {
+        "id": 154,
+        "categoria_id": 9,
+        "Nombre": "Queso de cabeza",
+        "Gramos": 40,
+        "Medida casera": "1 tajada"
+    },
+    {
+        "id": 155,
+        "categoria_id": 9,
+        "Nombre": "Atún en aceite",
+        "Gramos": 50,
+        "Medida casera": "1/3 taza"
+    },
+    {
+        "id": 156,
+        "categoria_id": 9,
+        "Nombre": "Mero, Sierra",
+        "Gramos": 80,
+        "Medida casera": "Trozo de 10*6*1"
+    },
+    {
+        "id": 157,
+        "categoria_id": 9,
+        "Nombre": "Trucha de cultivo",
+        "Gramos": 80,
+        "Medida casera": "Trozo de 10*6*1"
+    },
+    {
+        "id": 158,
+        "categoria_id": 9,
+        "Nombre": "Sardinas en aceite",
+        "Gramos": 50,
+        "Medida casera": "1/3 taza"
+    },
+    {
+        "id": 159,
+        "categoria_id": 9,
+        "Nombre": "Sardinas en agua",
+        "Gramos": 50,
+        "Medida casera": "1/3 taza"
+    },
+    {
+        "id": 160,
+        "categoria_id": 9,
+        "Nombre": "Sardinas en salsa",
+        "Gramos": 30,
+        "Medida casera": "1/3 taza"
+    },
+    {
+        "id": 161,
+        "categoria_id": 9,
+        "Nombre": "Sardina, Española",
+        "Gramos": 60,
+        "Medida casera": "2 un"
+    },
+    {
+        "id": 162,
+        "categoria_id": 9,
+        "Nombre": "Salmón crudo",
+        "Gramos": 80,
+        "Medida casera": "Trozo de 10*6*1"
+    },
+    {
+        "id": 163,
+        "categoria_id": 9,
+        "Nombre": "Jurel en aceite o en agua",
+        "Gramos": 50,
+        "Medida casera": "1/3 taza"
+    },
+    {
+        "id": 164,
+        "categoria_id": 9,
+        "Nombre": "Cholgas en aceite",
+        "Gramos": 60,
+        "Medida casera": "6 un"
+    },
+    {
+        "id": 165,
+        "categoria_id": 9,
+        "Nombre": "Choritos en aceite",
+        "Gramos": 60,
+        "Medida casera": "14 un"
+    },
+    {
+        "id": 166,
+        "categoria_id": 9,
+        "Nombre": "Erizos",
+        "Gramos": 60,
+        "Medida casera": "6 un"
+    },
+    {
+        "id": 167,
+        "categoria_id": 8,
+        "Nombre": "Filete",
+        "Gramos": 50,
+        "Medida casera": "Trozo de 6*6*1"
+    },
+    {
+        "id": 168,
+        "categoria_id": 8,
+        "Nombre": "Asiento picana",
+        "Gramos": 50,
+        "Medida casera": "Trozo de 6*6*1"
+    },
+    {
+        "id": 169,
+        "categoria_id": 8,
+        "Nombre": "Lomo liso",
+        "Gramos": 50,
+        "Medida casera": "Trozo de 6*6*1"
+    },
+    {
+        "id": 170,
+        "categoria_id": 8,
+        "Nombre": "Pollo ganso",
+        "Gramos": 50,
+        "Medida casera": "Trozo de 6*6*1"
+    },
+    {
+        "id": 171,
+        "categoria_id": 8,
+        "Nombre": "Posta negra",
+        "Gramos": 50,
+        "Medida casera": "Trozo de 6*6*1"
+    },
+    {
+        "id": 172,
+        "categoria_id": 8,
+        "Nombre": "Posta rosada",
+        "Gramos": 50,
+        "Medida casera": "Trozo de 6*6*1"
+    },
+    {
+        "id": 173,
+        "categoria_id": 8,
+        "Nombre": "Carne molida (tártaro)",
+        "Gramos": 50,
+        "Medida casera": "2 1/2 cdas"
+    },
+    {
+        "id": 174,
+        "categoria_id": 8,
+        "Nombre": "Pulpa",
+        "Gramos": 50,
+        "Medida casera": "Trozo de 6*6*1"
+    },
+    {
+        "id": 175,
+        "categoria_id": 8,
+        "Nombre": "Filete",
+        "Gramos": 50,
+        "Medida casera": "Trozo de 6*6*1"
+    },
+    {
+        "id": 176,
+        "categoria_id": 8,
+        "Nombre": "Pulpa",
+        "Gramos": 50,
+        "Medida casera": "Trozo de 6*6*1"
+    },
+    {
+        "id": 177,
+        "categoria_id": 8,
+        "Nombre": "Pollo cocido",
+        "Gramos": 50,
+        "Medida casera": "Trozo de 6*6*1"
+    },
+    {
+        "id": 178,
+        "categoria_id": 8,
+        "Nombre": "Pavo, pierna",
+        "Gramos": 50,
+        "Medida casera": "Trozo de 6*6*1"
+    },
+    {
+        "id": 179,
+        "categoria_id": 8,
+        "Nombre": "Gallina, pierna",
+        "Gramos": 50,
+        "Medida casera": "Trozo de 6*6*1"
+    },
+    {
+        "id": 180,
+        "categoria_id": 8,
+        "Nombre": "Gallina, pechuga",
+        "Gramos": 50,
+        "Medida casera": "Trozo de 6*6*1"
+    },
+    {
+        "id": 181,
+        "categoria_id": 8,
+        "Nombre": "Pato cocido (sin piel)",
+        "Gramos": 40,
+        "Medida casera": "Trozo de 6*6*1"
+    },
+    {
+        "id": 182,
+        "categoria_id": 8,
+        "Nombre": "Conejo crudo o cocido",
+        "Gramos": 60,
+        "Medida casera": "Trozo de 6*6*1"
+    },
+    {
+        "id": 183,
+        "categoria_id": 8,
+        "Nombre": "Charqui",
+        "Gramos": 18,
+        "Medida casera": "1/4 taza"
+    },
+    {
+        "id": 184,
+        "categoria_id": 8,
+        "Nombre": "Criadillas",
+        "Gramos": 100,
+        "Medida casera": "2 un"
+    },
+    {
+        "id": 185,
+        "categoria_id": 8,
+        "Nombre": "Guatita cruda",
+        "Gramos": 60,
+        "Medida casera": "3/4 taza"
+    },
+    {
+        "id": 186,
+        "categoria_id": 8,
+        "Nombre": "Riñón cocido",
+        "Gramos": 50,
+        "Medida casera": "2 lóbulos"
+    },
+    {
+        "id": 187,
+        "categoria_id": 8,
+        "Nombre": "Corazón cocido",
+        "Gramos": 50,
+        "Medida casera": "Trozo de 6*6*1"
+    },
+    {
+        "id": 188,
+        "categoria_id": 8,
+        "Nombre": "Contre de pollo cocido",
+        "Gramos": 50,
+        "Medida casera": "2 1/2 un"
+    },
+    {
+        "id": 189,
+        "categoria_id": 8,
+        "Nombre": "Jamón de pavo",
+        "Gramos": 50,
+        "Medida casera": "1 tajada"
+    },
+    {
+        "id": 190,
+        "categoria_id": 8,
+        "Nombre": "Pejerrey",
+        "Gramos": 80,
+        "Medida casera": "Trozo de 10*6*1"
+    },
+    {
+        "id": 191,
+        "categoria_id": 8,
+        "Nombre": "Carpa",
+        "Gramos": 80,
+        "Medida casera": "Trozo de 10*6*1"
+    },
+    {
+        "id": 192,
+        "categoria_id": 8,
+        "Nombre": "Corvina, Congrio, Jurel",
+        "Gramos": 80,
+        "Medida casera": "Trozo de 10*6*1"
+    },
+    {
+        "id": 193,
+        "categoria_id": 8,
+        "Nombre": "Merluza, Lenguado, Reineta",
+        "Gramos": 80,
+        "Medida casera": "Trozo de 10*6*1"
+    },
+    {
+        "id": 194,
+        "categoria_id": 8,
+        "Nombre": "Atún al agua",
+        "Gramos": 60,
+        "Medida casera": "1/3 taza"
+    },
+    {
+        "id": 195,
+        "categoria_id": 8,
+        "Nombre": "Camarón todo tipo",
+        "Gramos": 60,
+        "Medida casera": "1/2 taza"
+    },
+    {
+        "id": 196,
+        "categoria_id": 8,
+        "Nombre": "Cholga",
+        "Gramos": 60,
+        "Medida casera": "1 un"
+    },
+    {
+        "id": 197,
+        "categoria_id": 8,
+        "Nombre": "Choritos",
+        "Gramos": 60,
+        "Medida casera": "6 un"
+    },
+    {
+        "id": 198,
+        "categoria_id": 8,
+        "Nombre": "Jaiva todo tipo",
+        "Gramos": 60,
+        "Medida casera": "1/3 taza"
+    },
+    {
+        "id": 199,
+        "categoria_id": 8,
+        "Nombre": "Ostra",
+        "Gramos": 70,
+        "Medida casera": "8 un"
+    },
+    {
+        "id": 200,
+        "categoria_id": 8,
+        "Nombre": "Almejas",
+        "Gramos": 60,
+        "Medida casera": "6 un"
+    },
+    {
+        "id": 201,
+        "categoria_id": 8,
+        "Nombre": "Almejas, conserva en agua",
+        "Gramos": 60,
+        "Medida casera": "5 un regulares"
+    },
+    {
+        "id": 202,
+        "categoria_id": 8,
+        "Nombre": "Machas en conserva",
+        "Gramos": 50,
+        "Medida casera": "5 un"
+    },
+    {
+        "id": 203,
+        "categoria_id": 8,
+        "Nombre": "Piure",
+        "Gramos": 100,
+        "Medida casera": "6 lenguas"
+    },
+    {
+        "id": 204,
+        "categoria_id": 8,
+        "Nombre": "Choritos en agua",
+        "Gramos": 60,
+        "Medida casera": "25 un"
+    },
+    {
+        "id": 205,
+        "categoria_id": 8,
+        "Nombre": "Camarón con piel crudo",
+        "Gramos": 60,
+        "Medida casera": "10 un calibre pequeño"
+    },
+    {
+        "id": 206,
+        "categoria_id": 8,
+        "Nombre": "Ostión",
+        "Gramos": 90,
+        "Medida casera": "9 un"
+    },
+    {
+        "id": 207,
+        "categoria_id": 8,
+        "Nombre": "Huevo clara",
+        "Gramos": 100,
+        "Medida casera": "3 un"
+    },
+    {
+        "id": 208,
+        "categoria_id": 8,
+        "Nombre": "Huevo entero",
+        "Gramos": 50,
+        "Medida casera": "1 un"
+    },
+    {
+        "id": 209,
+        "categoria_id": 8,
+        "Nombre": "Huevo codorniz cocido",
+        "Gramos": 20,
+        "Medida casera": "2 unidades"
+    },
+    {
+        "id": 210,
+        "categoria_id": 10,
+        "Nombre": "Poroto cocido",
+        "Gramos": 100,
+        "Medida casera": "3/4 taza"
+    },
+    {
+        "id": 211,
+        "categoria_id": 10,
+        "Nombre": "Garbanzo cocido",
+        "Gramos": 130,
+        "Medida casera": "1 taza"
+    },
+    {
+        "id": 212,
+        "categoria_id": 10,
+        "Nombre": "Lenteja cocida",
+        "Gramos": 140,
+        "Medida casera": "1 taza"
+    },
+    {
+        "id": 213,
+        "categoria_id": 10,
+        "Nombre": "Poroto burro cocido",
+        "Gramos": 100,
+        "Medida casera": "3/4 taza"
+    },
+    {
+        "id": 214,
+        "categoria_id": 10,
+        "Nombre": "Bebida soya",
+        "Gramos": 150,
+        "Medida casera": "3/4 taza"
+    },
+    {
+        "id": 215,
+        "categoria_id": 10,
+        "Nombre": "Tofu",
+        "Gramos": 70,
+        "Medida casera": "1 trozo"
+    },
+    {
+        "id": 216,
+        "categoria_id": 5,
+        "Nombre": "Leche entera pausterizada de vaca",
+        "Gramos": 200,
+        "Medida casera": "1 taza"
+    },
+    {
+        "id": 217,
+        "categoria_id": 5,
+        "Nombre": "Leche en polvo 26% de mat. grasa",
+        "Gramos": 20,
+        "Medida casera": "1 cda colmada"
+    },
+    {
+        "id": 218,
+        "categoria_id": 5,
+        "Nombre": "Leche entera larga vida",
+        "Gramos": 200,
+        "Medida casera": "1 taza"
+    },
+    {
+        "id": 219,
+        "categoria_id": 5,
+        "Nombre": "Leche evaporada",
+        "Gramos": 80,
+        "Medida casera": "1/2 taza"
+    },
+    {
+        "id": 220,
+        "categoria_id": 5,
+        "Nombre": "Leche de cabra",
+        "Gramos": 80,
+        "Medida casera": "1/2 taza"
+    },
+    {
+        "id": 221,
+        "categoria_id": 5,
+        "Nombre": "Leche purita cereal",
+        "Gramos": 20,
+        "Medida casera": "1 cda colmada"
+    },
+    {
+        "id": 222,
+        "categoria_id": 5,
+        "Nombre": "Yogurt natural",
+        "Gramos": 150,
+        "Medida casera": "1 un"
+    },
+    {
+        "id": 223,
+        "categoria_id": 5,
+        "Nombre": "Leche entera sin lactosa",
+        "Gramos": 200,
+        "Medida casera": "1 taza"
+    },
+    {
+        "id": 224,
+        "categoria_id": 5,
+        "Nombre": "Queso chanco, mantecoso, cheddar, holandés, rincón, suizo",
+        "Gramos": 20,
+        "Medida casera": "1/2 tajada laminada"
+    },
+    {
+        "id": 225,
+        "categoria_id": 5,
+        "Nombre": "Queso gauda",
+        "Gramos": 25,
+        "Medida casera": "1/2 tajada laminada"
+    },
+    {
+        "id": 226,
+        "categoria_id": 5,
+        "Nombre": "Queso de cabra",
+        "Gramos": 25,
+        "Medida casera": "1/2 tajada laminada"
+    },
+    {
+        "id": 227,
+        "categoria_id": 5,
+        "Nombre": "Queso parmesano",
+        "Gramos": 15,
+        "Medida casera": "3 cdas rasas"
+    },
+    {
+        "id": 228,
+        "categoria_id": 5,
+        "Nombre": "Queso untable",
+        "Gramos": 25,
+        "Medida casera": "2 cdas"
+    },
+    {
+        "id": 229,
+        "categoria_id": 5,
+        "Nombre": "Queso camembert",
+        "Gramos": 25,
+        "Medida casera": ""
+    },
+    {
+        "id": 230,
+        "categoria_id": 5,
+        "Nombre": "Queso gruyere",
+        "Gramos": 20,
+        "Medida casera": ""
+    },
+    {
+        "id": 231,
+        "categoria_id": 6,
+        "Nombre": "Leche larga vida semidescremada",
+        "Gramos": 200,
+        "Medida casera": "1 taza"
+    },
+    {
+        "id": 232,
+        "categoria_id": 6,
+        "Nombre": "Leche en polvo 18% de mat. grasa",
+        "Gramos": 20,
+        "Medida casera": "1 cda colmada"
+    },
+    {
+        "id": 233,
+        "categoria_id": 6,
+        "Nombre": "Leche en polvo 12% de mat. grasa",
+        "Gramos": 20,
+        "Medida casera": "1 cda colmada"
+    },
+    {
+        "id": 234,
+        "categoria_id": 6,
+        "Nombre": "Leche fluída saborizada promedio",
+        "Gramos": 100,
+        "Medida casera": "1/2 taza"
+    },
+    {
+        "id": 235,
+        "categoria_id": 6,
+        "Nombre": "Yogurt batido diet",
+        "Gramos": 150,
+        "Medida casera": "1 un"
+    },
+    {
+        "id": 236,
+        "categoria_id": 6,
+        "Nombre": "Ricota",
+        "Gramos": 30,
+        "Medida casera": "2 cdas"
+    },
+    {
+        "id": 237,
+        "categoria_id": 6,
+        "Nombre": "Quesillo",
+        "Gramos": 60,
+        "Medida casera": "1 rodela de 3 cm"
+    },
+    {
+        "id": 238,
+        "categoria_id": 6,
+        "Nombre": "Leche semidescremada sin lactosa",
+        "Gramos": 200,
+        "Medida casera": "1 taza"
+    },
+    {
+        "id": 239,
+        "categoria_id": 7,
+        "Nombre": "Leche descremada líquida 0-2% de mat. grasa",
+        "Gramos": 200,
+        "Medida casera": "1 taza"
+    },
+    {
+        "id": 240,
+        "categoria_id": 7,
+        "Nombre": "Leche en polvo descremada 0-2% de mat. grasa",
+        "Gramos": 20,
+        "Medida casera": "1 cda colmada"
+    },
+    {
+        "id": 241,
+        "categoria_id": 7,
+        "Nombre": "Leche cultivada descremada",
+        "Gramos": 200,
+        "Medida casera": "1 taza"
+    },
+    {
+        "id": 242,
+        "categoria_id": 7,
+        "Nombre": "Leche descremada sin lactosa",
+        "Gramos": 200,
+        "Medida casera": "1 taza"
+    },
+    {
+        "id": 243,
+        "categoria_id": 11,
+        "Nombre": "Aceite de maravilla",
+        "Gramos": 20,
+        "Medida casera": "4 cdta"
+    },
+    {
+        "id": 244,
+        "categoria_id": 11,
+        "Nombre": "Aceite de maíz",
+        "Gramos": 20,
+        "Medida casera": "4 cdta"
+    },
+    {
+        "id": 245,
+        "categoria_id": 11,
+        "Nombre": "Aceite de soya",
+        "Gramos": 20,
+        "Medida casera": "4 cdta"
+    },
+    {
+        "id": 246,
+        "categoria_id": 11,
+        "Nombre": "Aceite de pepita de uva",
+        "Gramos": 20,
+        "Medida casera": "4 cdta"
+    },
+    {
+        "id": 247,
+        "categoria_id": 11,
+        "Nombre": "Aceite de chía",
+        "Gramos": 25,
+        "Medida casera": "5 cdta"
+    },
+    {
+        "id": 248,
+        "categoria_id": 11,
+        "Nombre": "Aceite de sésamo",
+        "Gramos": 20,
+        "Medida casera": "4 cdta"
+    },
+    {
+        "id": 249,
+        "categoria_id": 11,
+        "Nombre": "Aceite suplementado omega 3",
+        "Gramos": 20,
+        "Medida casera": "4 cdta"
+    },
+    {
+        "id": 250,
+        "categoria_id": 11,
+        "Nombre": "Aceite de oliva",
+        "Gramos": 20,
+        "Medida casera": "4 cdta"
+    },
+    {
+        "id": 251,
+        "categoria_id": 11,
+        "Nombre": "Aceite de oliva virgen",
+        "Gramos": 20,
+        "Medida casera": "4 cdta"
+    },
+    {
+        "id": 252,
+        "categoria_id": 11,
+        "Nombre": "Aceite de oliva extra virgen",
+        "Gramos": 20,
+        "Medida casera": "4 cdta"
+    },
+    {
+        "id": 253,
+        "categoria_id": 11,
+        "Nombre": "Aceite de almendra",
+        "Gramos": 20,
+        "Medida casera": "4 cdta"
+    },
+    {
+        "id": 254,
+        "categoria_id": 11,
+        "Nombre": "Aceite de palta",
+        "Gramos": 20,
+        "Medida casera": "4 cdta"
+    },
+    {
+        "id": 255,
+        "categoria_id": 11,
+        "Nombre": "Aceite de coliza",
+        "Gramos": 20,
+        "Medida casera": "4 cdta"
+    },
+    {
+        "id": 256,
+        "categoria_id": 11,
+        "Nombre": "Aceite de canola",
+        "Gramos": 20,
+        "Medida casera": "4 cdta"
+    },
+    {
+        "id": 257,
+        "categoria_id": 11,
+        "Nombre": "Grasa animal",
+        "Gramos": 25,
+        "Medida casera": "2 cdas"
+    },
+    {
+        "id": 258,
+        "categoria_id": 11,
+        "Nombre": "Manteca de cerdo/chicharrones",
+        "Gramos": 20,
+        "Medida casera": "2 cdas"
+    },
+    {
+        "id": 259,
+        "categoria_id": 11,
+        "Nombre": "Manteca vegetal",
+        "Gramos": 20,
+        "Medida casera": "2 cdas"
+    },
+    {
+        "id": 260,
+        "categoria_id": 11,
+        "Nombre": "Mantequilla",
+        "Gramos": 24,
+        "Medida casera": "4 cdtas"
+    },
+    {
+        "id": 261,
+        "categoria_id": 11,
+        "Nombre": "Margarina",
+        "Gramos": 24,
+        "Medida casera": "4 cdtas"
+    },
+    {
+        "id": 262,
+        "categoria_id": 11,
+        "Nombre": "Margarina diet",
+        "Gramos": 30,
+        "Medida casera": "4 cdtas"
+    },
+    {
+        "id": 263,
+        "categoria_id": 11,
+        "Nombre": "Crema espesa",
+        "Gramos": 70,
+        "Medida casera": "4 cdas"
+    },
+    {
+        "id": 264,
+        "categoria_id": 11,
+        "Nombre": "Crema ácida líquida",
+        "Gramos": 100,
+        "Medida casera": "1/2 taza"
+    },
+    {
+        "id": 265,
+        "categoria_id": 11,
+        "Nombre": "Crema chantilly",
+        "Gramos": 50,
+        "Medida casera": "4 cdas"
+    },
+    {
+        "id": 266,
+        "categoria_id": 11,
+        "Nombre": "Paté",
+        "Gramos": 40,
+        "Medida casera": "2 cdas"
+    },
+    {
+        "id": 267,
+        "categoria_id": 11,
+        "Nombre": "Grasa de coco",
+        "Gramos": 20,
+        "Medida casera": "4 cdta"
+    },
+    {
+        "id": 268,
+        "categoria_id": 12,
+        "Nombre": "Almendra",
+        "Gramos": 25,
+        "Medida casera": "26 un"
+    },
+    {
+        "id": 269,
+        "categoria_id": 12,
+        "Nombre": "Almendras saladas",
+        "Gramos": 25,
+        "Medida casera": "26 un"
+    },
+    {
+        "id": 270,
+        "categoria_id": 12,
+        "Nombre": "Avellana",
+        "Gramos": 30,
+        "Medida casera": "50 un"
+    },
+    {
+        "id": 271,
+        "categoria_id": 12,
+        "Nombre": "Maní",
+        "Gramos": 30,
+        "Medida casera": "30 un"
+    },
+    {
+        "id": 272,
+        "categoria_id": 12,
+        "Nombre": "Maní salado",
+        "Gramos": 30,
+        "Medida casera": "30 un"
+    },
+    {
+        "id": 273,
+        "categoria_id": 12,
+        "Nombre": "Nuez",
+        "Gramos": 25,
+        "Medida casera": "5 un"
+    },
+    {
+        "id": 274,
+        "categoria_id": 12,
+        "Nombre": "Pistacho",
+        "Gramos": 30,
+        "Medida casera": "40 un"
+    },
+    {
+        "id": 275,
+        "categoria_id": 12,
+        "Nombre": "Aceituna",
+        "Gramos": 115,
+        "Medida casera": "11un"
+    },
+    {
+        "id": 276,
+        "categoria_id": 12,
+        "Nombre": "Palta",
+        "Gramos": 90,
+        "Medida casera": "3 cdas"
+    },
+    {
+        "id": 277,
+        "categoria_id": 12,
+        "Nombre": "Semillas de zapallo",
+        "Gramos": 40,
+        "Medida casera": ""
+    },
+    {
+        "id": 278,
+        "categoria_id": 12,
+        "Nombre": "Semillas de maravilla",
+        "Gramos": 30,
+        "Medida casera": ""
+    },
+    {
+        "id": 279,
+        "categoria_id": 12,
+        "Nombre": "Semillas de linaza",
+        "Gramos": 30,
+        "Medida casera": ""
+    },
+    {
+        "id": 280,
+        "categoria_id": 12,
+        "Nombre": "Semillas de chia",
+        "Gramos": 35,
+        "Medida casera": ""
+    },
+    {
+        "id": 281,
+        "categoria_id": 12,
+        "Nombre": "Lactonesa ",
+        "Gramos": 28,
+        "Medida casera": "1 cda"
+    },
+    {
+        "id": 282,
+        "categoria_id": 12,
+        "Nombre": "Mayonesa casera ",
+        "Gramos": 28,
+        "Medida casera": "1 cda"
+    },
+    {
+        "id": 283,
+        "categoria_id": 12,
+        "Nombre": "Mantequilla de maní",
+        "Gramos": 30,
+        "Medida casera": "2 cdta"
+    },
+    {
+        "id": 284,
+        "categoria_id": 13,
+        "Nombre": "Azúcar",
+        "Gramos": 5,
+        "Medida casera": "1 cdta"
+    },
+    {
+        "id": 285,
+        "categoria_id": 13,
+        "Nombre": "Miel de abeja",
+        "Gramos": 6,
+        "Medida casera": "1 cdta"
+    },
+    {
+        "id": 286,
+        "categoria_id": 13,
+        "Nombre": "Miel de palma",
+        "Gramos": 6,
+        "Medida casera": "1 cdta"
+    },
+    {
+        "id": 287,
+        "categoria_id": 13,
+        "Nombre": "Mermeladas",
+        "Gramos": 10,
+        "Medida casera": "1 cdta"
+    },
+    {
+        "id": 288,
+        "categoria_id": 13,
+        "Nombre": "Membrillo, dulce",
+        "Gramos": 10,
+        "Medida casera": "1 cdta"
+    },
+    {
+        "id": 289,
+        "categoria_id": 13,
+        "Nombre": "Manjar",
+        "Gramos": 10,
+        "Medida casera": "1 cdta"
+    },
+    {
+        "id": 290,
+        "categoria_id": 13,
+        "Nombre": "Jalea en polvo",
+        "Gramos": 5,
+        "Medida casera": "1 cdta"
+    },
+    {
+        "id": 291,
+        "categoria_id": 13,
+        "Nombre": "Jugo en polvo",
+        "Gramos": 5,
+        "Medida casera": "1 cdta"
+    },
+    {
+        "id": 292,
+        "categoria_id": 13,
+        "Nombre": "Cacao amargo en polvo",
+        "Gramos": 6,
+        "Medida casera": "2/3 cdta"
+    },
+    {
+        "id": 293,
+        "categoria_id": 13,
+        "Nombre": "Cacao dulce",
+        "Gramos": 7,
+        "Medida casera": "1 cdta"
+    },
+    {
+        "id": 294,
+        "categoria_id": 13,
+        "Nombre": "Bebidas gaseosas",
+        "Gramos": 50,
+        "Medida casera": "1/4 taza"
+    },
+    {
+        "id": 295,
+        "categoria_id": 13,
+        "Nombre": "Nectar promedio",
+        "Gramos": 50,
+        "Medida casera": "1/4 taza"
+    },
+    {
+        "id": 296,
+        "categoria_id": 13,
+        "Nombre": "Pulpa de frutas",
+        "Gramos": 50,
+        "Medida casera": "1/4 taza"
+    },
+    {
+        "id": 297,
+        "categoria_id": 13,
+        "Nombre": "Bliss sport",
+        "Gramos": 100,
+        "Medida casera": "1/2 taza"
+    },
+    {
+        "id": 298,
+        "categoria_id": 13,
+        "Nombre": "Jugos larga vida",
+        "Gramos": 150,
+        "Medida casera": "1/4 taza"
+    },
+    {
+        "id": 299,
+        "categoria_id": 13,
+        "Nombre": "Jugos larga vida diet",
+        "Gramos": 120,
+        "Medida casera": "1/2 taza"
+    }
+]
